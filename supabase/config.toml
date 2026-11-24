@@ -1,0 +1,16 @@
+project_id = "jbnrjmycjvouoydcdqjg"
+
+[functions.phone-otp]
+verify_jwt = false
+
+[functions.seed-chargers]
+verify_jwt = false
+
+[functions.overpass-chargers]
+verify_jwt = false
+
+[functions.create-razorpay-order]
+verify_jwt = false
+
+[functions.verify-razorpay-payment]
+verify_jwt = false
